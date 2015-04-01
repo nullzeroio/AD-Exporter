@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/snccmlf7g9xospyx?svg=true)](https://ci.appveyor.com/project/vScripter/ad-exporter-k4pp8)
+
 # AD Exporter Tool
 ![](https://github.com/vScripter/AD-Exporter/raw/Dev/Screen%20Shots/v1.5.0_Main.PNG)
 
